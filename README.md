@@ -66,8 +66,7 @@ backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your_repo_link>
-cd online-learning-tutorial
+git clone https://github.com/Harshini4080/Scaler_Online_Learning_Tutorial.git
 ```
 
 ### 2. Install Backend Dependencies
