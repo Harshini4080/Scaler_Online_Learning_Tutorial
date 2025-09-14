@@ -36,12 +36,22 @@ This project was built as part of the SDE Intern assignment. It is a full-stack 
 
 ---
 
+----
+##  Screenshot
+1. Users can register and log in based on their role: Instructor or Student.  
+   Instructors must also provide a course title and description during registration.
+(<img width="1902" height="859" alt="Screenshot 2025-09-14 110401" src="https://github.com/user-attachments/assets/41cddc42-340a-43f3-97ef-5b21fa964c22" />)
+(![Screenshot 2025-07-02 104200](https://github.com/user-attachments/assets/f1a5eb7e-6e24-48c2-b35c-9cc672f20054)
+(![Screenshot 2025-07-02 104136](https://github.com/user-attachments/assets/b27923eb-cb9c-45c3-be6b-92054afe59f0)
+
+---
+---
 ## Project Structure
 ```
 frontend/
 ├─ src/
 │ ├─ api/ # Axios API calls
-│ ├─ components/ # Navbar, reusable components
+│ ├─ components/ # Navbar,
 │ ├─ pages/ # Login, Register, Dashboards, CourseDetails, LectureView
 │ ├─ App.js
 │ ├─ index.js
