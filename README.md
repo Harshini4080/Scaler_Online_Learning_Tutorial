@@ -66,7 +66,13 @@ Enrollment allows them to access lectures and track their progress within the se
 
 
 ---
+##Demo Video
+
+[Watch demo video](https://drive.google.com/file/d/1MAWl2aQa-i-b352jrX2Eq3omcO_cdQdr/view?usp=sharing)
+
 ---
+---
+
 ## Project Structure
 ```
 frontend/
@@ -197,6 +203,8 @@ Authorization: Bearer <your_token>
 - File upload for lecture content (PDF, images)
 - Course search functionality
 - Fully responsive frontend
+- Instructors can update or delete quizzes for their lectures to keep course content accurate and up-to-date.
+
 
 
 ## AI Disclosure
