@@ -41,8 +41,29 @@ This project was built as part of the SDE Intern assignment. It is a full-stack 
 1. Users can register and log in based on their role: Instructor or Student.  
    Instructors must also provide a course title and description during registration.
 (<img width="1902" height="859" alt="Screenshot 2025-09-14 110401" src="https://github.com/user-attachments/assets/41cddc42-340a-43f3-97ef-5b21fa964c22" />)
-(![Screenshot 2025-07-02 104200](https://github.com/user-attachments/assets/f1a5eb7e-6e24-48c2-b35c-9cc672f20054)
-(![Screenshot 2025-07-02 104136](https://github.com/user-attachments/assets/b27923eb-cb9c-45c3-be6b-92054afe59f0)
+(<img width="1889" height="860" alt="Screenshot 2025-09-14 110415" src="https://github.com/user-attachments/assets/6aff9ee7-fa1c-428e-9791-079ffa016b48" />)
+(<img width="1890" height="676" alt="Screenshot 2025-09-14 110426" src="https://github.com/user-attachments/assets/799bd520-cc25-41a2-ba9a-af408208a181" />)
+
+2. The application provides two dashboards: Instructor and Student.  
+Instructors can access only their assigned course dashboard.
+Students can browse and view all available courses on the platform.Each course displays its title and description for easy selection.
+(<img width="1884" height="548" alt="Screenshot 2025-09-14 110513" src="https://github.com/user-attachments/assets/858ce1ee-2420-480d-b13b-472e96839898" />)
+(<img width="1888" height="862" alt="Screenshot 2025-09-14 110702" src="https://github.com/user-attachments/assets/d37b703b-6409-45b1-a765-90d879b4f065" />)
+
+3. Instructors can add, update, and delete lectures within their assigned course dashboard.  
+They can also create quizzes for each lecture to assess student learning.
+(<img width="1884" height="548" alt="Screenshot 2025-09-14 110513" src="https://github.com/user-attachments/assets/ba212590-b548-4894-a0f4-5c5e97a2291a" />)
+(<img width="1863" height="788" alt="Screenshot 2025-09-14 110615" src="https://github.com/user-attachments/assets/b3e5b403-a4ed-431c-adc9-dcb2f9bd386b" />)
+
+4.Students can view existing courses and enroll in the ones they choose.  
+Enrollment allows them to access lectures and track their progress within the selected course. Lectures unlock sequentially, so the next lecture is accessible only after completing the previous one.
+(<img width="1888" height="862" alt="Screenshot 2025-09-14 110702" src="https://github.com/user-attachments/assets/9fcaa9fd-c442-411e-b10a-39a4a01a0f59" />)
+(<img width="1909" height="751" alt="Screenshot 2025-09-14 110722" src="https://github.com/user-attachments/assets/a5528600-b329-4e75-917f-1fdc7cf8bc1a" />)
+
+5.Students can read lecture content and attempt quizzes to test their understanding.  
+(<img width="1896" height="875" alt="Screenshot 2025-09-14 110732" src="https://github.com/user-attachments/assets/c78c45ee-d812-4622-9b49-6932d4df5925" />)
+(<img width="1391" height="558" alt="Screenshot 2025-09-14 110748" src="https://github.com/user-attachments/assets/1eb6e21f-9b6b-4405-987c-e8f38d45e94c" />)
+
 
 ---
 ---
@@ -111,7 +132,7 @@ npm run dev
 ```
 Backend API runs at: http://localhost:5000
 
-### 4. Start the Frontend 
+### 5. Start the Frontend 
 
 ```bash
 cd ../frontend
